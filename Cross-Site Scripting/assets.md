@@ -26,13 +26,16 @@ The lack of HTML attribute encoding allowed an attacker to inject HTML and JavaS
 7.Verify that the injected payload is reflected without proper HTML attribute encoding.
 ## POC (Proof of Concept)
 <!-- Add screenshots, HTTP requests/responses, payloads, or videos that demonstrate the vulnerability. -->
-Image 1: crafted payload upload in search box
+Image 1: crafted payload upload in search box in pubg
+
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/ec408773-102a-4164-aab6-6fa17528efc7" />
 
 Image 2:java script payload execution sucessfull
+
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/6e934377-1af7-4aa8-93ec-78ae609b9c07" />
 
-Image 3: view of payload at page source
+Image 3: view of payload at view page source
+
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/c78add17-4f8b-4825-8634-0786422ba012" />
 
 ## Impact

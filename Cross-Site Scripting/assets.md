@@ -55,3 +55,5 @@ Image 3: view of payload at view page source
 3.If you're using PHP then use htmlspecialchars() function before rendering any user input back to the page
 
 4.Use Cloudflare as they have so many WAF rules that almost all XSS payloads will be blocked automatically before even reaching the server
+
+5.Use Cloudflare as they have so many WAF rules that almost all XSS payloads will be blocked automatically before even reaching the server
